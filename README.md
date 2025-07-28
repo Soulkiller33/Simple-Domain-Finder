@@ -6,7 +6,7 @@
 
 ### Usage
 
--Ensure you're in the directory where you installed the program \n
+-Ensure you're in the directory where you installed the program  
 -Use full directory path for wordlists to ensure proper functionality  
 
 
