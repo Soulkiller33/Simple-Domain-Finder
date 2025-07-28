@@ -1,4 +1,8 @@
-# Simple Domain Finder
+### Simple Domain Finder
+
+### Download
+
+git clone https://github.com/Soulkiller33/Simple-Domain-Finder
 
 ### Usage
 
