@@ -2,7 +2,7 @@
 
 ### Download
 
-git clone https://github.com/Soulkiller33/Simple-Domain-Finder
+```git clone https://github.com/Soulkiller33/Simple-Domain-Finder```
 
 ### Usage
 
